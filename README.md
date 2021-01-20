@@ -46,14 +46,20 @@ The AusARG SC has prioritised the following species and work to be undertaken th
 2. .. 
 3. ..
 
-**Getting an account** 
+# Getting started
 
-Before taking any action, please discuss your account and next steps with the AusARG bioinformatics leads. 
+1. Before taking any action, please discuss your account and next steps with the AusARG bioinformatics leads (Hardip and/or Terry).
+2. If you are a new NCI user, please apply for an account at https://my.nci.org.au/mancini/login?next=/mancini/ and request to join project xl04.
 
-If you are a new NCI please apply for an account at https://my.nci.org.au/mancini/login?next=/mancini/
+# Data storage
+
+Further data management practices for the AusARG project will be listed here soon. For now,
+
+1. Create `/g/data/xl04/userID` directory for your personal use and use that directory for your work. 
+2. Publicly available data can be stored in `/g/data/xl04/publicdata/NCBItaxonomyID/`. If you download public data, please write a `readme.txt` file for others to know what the data is about. Unexplained data may be deleted if there is shortage of space.
 
 
-**Getting help**
+# Getting help**
 
 Direct training and help is available if you are new to HPC and/or new to NCI/Gadi. 
 
