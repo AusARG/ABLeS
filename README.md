@@ -59,7 +59,7 @@ Further data management practices for the AusARG project will be listed here soo
 2. Publicly available data can be stored in `/g/data/xl04/publicdata/NCBItaxonomyID/`. If you download public data, please write a `readme.txt` file for others to know what the data is about. Unexplained data may be deleted if there is shortage of space.
 
 
-# Getting help**
+# Getting help
 
 Direct training and help is available if you are new to HPC and/or new to NCI/Gadi. 
 
@@ -67,7 +67,7 @@ Direct training and help is available if you are new to HPC and/or new to NCI/Ga
 2. For NCI support, contact the NCI helpdesk directly at https://www.nci.org.au/users/nci-helpdesk
 3. Queue limits and structure explained at https://opus.nci.org.au/display/Help/4.+PBS+Jobs.
 
-**Sharing learnings**
+# Sharing learnings
 
 1. Discussions regarding the usage of the compute resources can be found at https://github.com/AusARG/ABLeS/discussions.
 2. Please use issue tracker here if you want to raise it as an issue for these resources in this repo.
