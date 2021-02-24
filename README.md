@@ -58,6 +58,21 @@ Further data management practices for the AusARG project will be listed here soo
 1. Create `/g/data/xl04/userID` directory for your personal use and use that directory for your work. 
 2. Publicly available data can be stored in `/g/data/xl04/publicdata/NCBItaxonomyID/`. If you download public data, please write a `readme.txt` file for others to know what the data is about. Unexplained data may be deleted if there is shortage of space.
 
+## Bioplatforms Australia Framework Initiative data
+
+Raw sequencing data produced by the Bioplatforms Australia Genomics nodes (AGRF, Ramaciotti Centre for Genomics, ANU-BRF) is stored alongside descriptive sample and library metadata on the [Bioplatforms Australia Data Portal](https://data.bioplatforms.com/).
+
+The [data portal section for AusARG](https://data.bioplatforms.com/organization/ausarg) provides a way to search for, inspect and - for registered users - download the data produced by each AusARG project. Broadly, the data stored will fall under the following core activities:
+
+- [Comparative Genomics and Evolution (Reference genomes)](https://ausargenomics.com/reference-genomes/) 
+- [Phylogenomics](https://ausargenomics.com/phylogenomics/) 
+- [Taxonomy and Conservation Genomics](https://ausargenomics.com/taxonomy-conservation-genomics/)
+
+## How to access data stored by Bioplatforms?
+
+- To access the data portal you first need to register for an account (see [How to register for an account and log-in](https://github.com/BioplatformsAustralia/dataportal-usersupport/blob/master/registration_login.md)).
+- The data portal can then be accessed, and data downloaded, via the [browser interface](https://data.bioplatforms.com/organization/ausarg): see [How to find, filter and bulk download data and meta-data](https://github.com/BioplatformsAustralia/dataportal-usersupport/blob/master/find_filter_download.md).
+- Several options are also available for [programmatic access to the Bioplatforms Data Portal](https://github.com/BioplatformsAustralia/dataportal-usersupport/blob/master/programmatic_access.md).
 
 # Getting help
 
