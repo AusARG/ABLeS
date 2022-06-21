@@ -13,9 +13,7 @@ For the context, if we were to use Google Cloud Platform for 3 million CPU hours
 
 # Australian BioCommons Leadership Share (ABLeS)
 
-The intention of ABLeS is to apply computing power and related resources to construct, 
-maintain and gain insights from community defined and developed data assets 
-(e.g. reference genome assemblies).
+The intention of [ABLeS](https://australianbiocommons.github.io/ables/) is to apply computing power and related resources to construct, maintain and gain insights from community defined and developed data assets (e.g. reference genome assemblies). Details on ABLeS are available through its webpages at [https://australianbiocommons.github.io/ables/](https://australianbiocommons.github.io/ables/)
 
 It will also be used to evaluate the efficacy of digital tools and methods in relation to the species under 
 investigation and/or the project aim, including the computational and data requirements 
@@ -50,6 +48,7 @@ The AusARG SC has prioritised the following species and work to be undertaken th
 
 1. Before taking any action, please discuss your account and next steps with the AusARG bioinformatics leads (Hardip and/or Terry).
 2. If you are a new NCI user, please apply for an account at https://my.nci.org.au/mancini/login?next=/mancini/ and request to join project xl04.
+3. Familiarise yourself with ABLeS [resources](https://australianbiocommons.github.io/ables/resources/) including its [shared repository of tools and workflows](https://australianbiocommons.github.io/ables/if89/) that you can access directly through AusARG project. 
 
 # Data storage
 
